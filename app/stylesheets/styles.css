@@ -37,9 +37,10 @@ ul, ul.panel-body {
   border-radius: 15px;
 }
 
+/* 
 .message-row p {
-  /* flex: auto; */
-}
+  flex: auto; 
+} */
 
 .me {
   /* justify-content: flex-end; */
